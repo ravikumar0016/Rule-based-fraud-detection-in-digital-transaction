@@ -1,0 +1,2 @@
+# Rule-based-fraud-detection-in-digital-transaction
+It will Detect digital transaction fraud on the basic of inconsistent location,unexpectedly large transaction,frequent transaction.if fraud will detect account will be blocked and ask user to enter secret key that is multi-encrypted cipher text. if user will enter correct secret key than account will be unblocked and he can make transaction,and transaction details will get update in database
